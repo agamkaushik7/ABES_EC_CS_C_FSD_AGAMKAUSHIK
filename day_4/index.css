@@ -12,6 +12,9 @@
     width:120px;
     background-color:antiquewhite;
 }
+.box:hover{
+    cursor: pointer;
+}
 .box:nth-child(1){
     background-color:rgb(192, 215, 246);
     display:flex;
